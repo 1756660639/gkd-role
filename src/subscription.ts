@@ -4,10 +4,10 @@ import categories from './categories';
 import globalGroups from './globalGroups';
 
 export default defineGkdSubscription({
-  id: 233,
-  name: 'Subscription',
+  id: 5757,
+  name: 'yezi的订阅',
   version: 0,
-  author: 'author',
+  author: 'xingxing',
   checkUpdateUrl: './gkd.version.json5',
   supportUri: 'https://github.com/gkd-kit/subscription-template',
   categories,
